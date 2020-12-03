@@ -44,11 +44,11 @@ public class prak3Lat2 {
       System.out.println("c &= a  = " + c );
 
       c ^= a ;			// 00000000	 => 00001010=10
-						// 00001010
+					// 00001010
       System.out.println("c ^= a   = " + c );
 
       c |= a ;			// 00001010	 => 00001010=10
-						// 00001010
+					// 00001010
       System.out.println("c |= a   = " + c );
    }
 }

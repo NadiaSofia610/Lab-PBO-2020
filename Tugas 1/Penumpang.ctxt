@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Penumpang
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Penumpang\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nama\ umur\ hamil
+comment1.target=Penumpang(java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ untuk\ objek-objek\ di\ kelas\ Penumpang\r\n\ @param\ nama\ penumpang\r\n\ @param\ umur\ penumpang\r\n\ @param\ hamil\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment2.text=\r\n\ Method\ untuk\ mengembalikan\ nama\ penumpang\r\n\ @return\ nama\ penumpang\r\n
+comment3.params=
+comment3.target=int\ getUmur()
+comment3.text=\r\n\ Method\ untuk\ mengembalikan\ umur\ penumpang\r\n\ @return\ umur\ penumpang\r\n
+comment4.params=
+comment4.target=boolean\ getHamil()
+comment4.text=\r\n\ Method\ untuk\ mengembalikan\ pernyataan\ benar\ atau\ salah\ bagi\ penumpang\ yang\ hamil\r\n\ @return\ hamil\r\n
+numComments=5

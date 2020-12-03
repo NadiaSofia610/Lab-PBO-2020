@@ -24,7 +24,7 @@ program diatas mirip dengan program pada materi_15
 
 untuk i=0, karena 0<10, cetak * karena 0<i, simpan j=0+1, simpan i=0+1
 untuk i=1, karena 1<10, cetak ** karena 1<i+1, simpan j=1+1, simpan i=1+1
-untuk i=2, karena 2<10, cetak *** karena 2<i+1, simpan j=2+1, simpan i=2+1		
+untuk i=2, karena 2<10, cetak *** karena 2<i+1, simpan j=2+1, simpan i=2+1
 untuk i=3, karena 3<10, cetak **** karena 3<i+1, simpan j=4+1, simpan i=3+1
 untuk i=4, karena 4<10, cetak ***** karena 4<i+1, simpan j=5+1, simpan i=4+1
 untuk i=5, karena 5<10, cetak ****** karena 5<i+1, simpan j=6+1, simpan i=5+1
